@@ -1,0 +1,67 @@
+{
+  "about": {
+    "title": "About",
+    "name": "Alexandra Manteiga",
+    "photo": "Profile.png",
+    "address": "Bergen County, NJ",
+    "email": "alexandramanteiga@gmail.com",
+    "linkedin": "www.linkedin.com/in/alexandramanteiga",
+    "bio": "Hi! I’m Alexandra, a junior at Boston College studying Computer Science and Sociology. I’m interested in building a career at the intersection of data, technology, and human-centered work, with a particular interest in communication and user-focused problem solving."
+  },
+  "news": [
+    {
+      "date": "January 16, 2025 - Present",
+      "description": "Supporting communications and marketing efforts as an intern at Autism Navigation Services."
+    },
+    {
+      "date": "December 5, 2025",
+      "description": "Presented a low-fidelity chore-tracking webpage created with a team using front-end technologies including HTML, CSS, and JavaScript, emphasizing clear and usable design."
+    },
+    {
+      "date": "November 6, 2025",
+      "description": "Opening night of Urinetown, a student-run musical for which I managed costume design and budgeting for an 18-member cast."
+    },
+    {
+      "date": "September 9, 2025",
+      "description": "Hosted Career pathways in Tech Panel with Women in Computer Science"
+    }
+  ],
+  "projects": [
+    {
+      "id": "autism",
+      "title": "Autism Navigations Solutions",
+      "description": "This webpage highlights Autism Navigation Solutions, a new consulting business supporting parents of children with autism. I have worked closely with the founder to improve and refine the site, specifically helping develop the blog section that shares her personal stories as a parent of a child with autism and addressing reformatting and layout issues. The site is designed to be welcoming, clear, and supportive for families seeking guidance.",
+      "cover": "AutismCover.png",
+      "image": "autism.png",
+      "click": " --> Click!",
+      "link": "https://autismnavigationsolutions.com/"
+    },
+    {
+      "id": "webapps",
+      "title": "Chore Tracker - Web Applications Course Project",
+      "description": "This webpage highlights a chore-tracking system I helped create to address accountability challenges in communal living spaces, where people are often hesitant to remind friends to stay on top of shared chores. Working with a team, we designed a low-fidelity, gamified solution to make task tracking more engaging and reduce friction around responsibility. I contributed to building the front-end interface using HTML, CSS, and JavaScript.",
+      "cover": "ChoreCover.png",
+      "image": "Chore.png",
+      "click": " --> Click!",
+      "link": "https://nffhpw.csb.app/"
+    },
+    {
+      "id": "show",
+      "title": "Urinetown Musical Production",
+      "description": "These are photographs taken during a dress rehearsasl of Urinetown. During my time of this production, I was responsible for managing costume planning for an 18-person cast production. I independently coordinated schedules, sourced materials, and maintained a strict budget while adapting to time-sensitive challenges such as last-minute repairs and delayed supplies. Through this project, I deepend my ability to problem-solve, organize, and clearly communicate to ensure smooth and cohesive performances.",
+      "cover": "UrinetownCover.png",
+      "image": "Urinetown.png",
+      "click": " --> Click!",
+      "link": "https://photos.app.goo.gl/zewSzsEbHjErcprEA"
+    },
+    {
+      "id": "attractive",
+      "title": "Impacts of Physical Attractiveness",
+      "description": "This research paper, written for my Research Methods course, examines how both self-perceived and externally perceived physical attractiveness influence individuals’ psychology, behavior, and social outcomes. Drawing on a wide range of academic sources, the paper explores how attractiveness can create advantages such as increased confidence and social mobility, while also contributing to bias, deviance, and gender-based disadvantages.",
+      "cover": "attractive.png",
+      "image": "project2.png",
+      "click": " --> Click!",
+      "link": "https://drive.google.com/file/d/1Gq_Yi58_gZd-jJqc08WG7kzOtW43Hj7C/view?usp=sharing"
+    }
+  ]
+}
